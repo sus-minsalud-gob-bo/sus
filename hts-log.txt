@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 21 Aug 2021 19:47:38 at https://sus.minsalud.gob.bo/busca_vacuna_dosisqr?dosis=1ra.%20DOSIS&ci=13971643&fechanacimiento=09/03/2002 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://sus.minsalud.gob.bo/busca_vacuna_dosisqr?dosis=1ra.%20DOSIS&ci=13971643&fechanacimiento=09/03/2002 -O1 "C:\Mis lugares Web\Copia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:44	Error: 	"Not Found" (404) at link https://sus.minsalud.gob.bo/ico/favicon.ico (from https://sus.minsalud.gob.bo/busca_vacuna_dosisqr?dosis=1ra.%20DOSIS&ci=13971643&fechanacimiento=09/03/2002)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 9 links scanned, 7 files written (280719 bytes overall) [192177 bytes received at 27453 bytes/sec], 112523 bytes transferred using HTTP compression in 2 files, ratio 17%, 3.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
